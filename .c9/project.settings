@@ -1,6 +1,7 @@
 {
     "extensions": {
         "@aws.cfnSchemaVersion": "v5.2.9",
+        "@aws.profile": "profile:default",
         "@aws.samSchemaVersion": "v5.2.9",
         "@yaml.customTags": [
             "!And",
